@@ -1,0 +1,10 @@
+.list-item{
+    height: 30px;
+    
+}
+
+.list-container{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
