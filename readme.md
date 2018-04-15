@@ -457,4 +457,4 @@ getWeb3
 
 账户的余额查询也是类似。获取查询地址，通过`this.state.metaCoinInstance.getBalance(address_check)`查询余额。
 
-[获取源码]
+[获取源码](https://github.com/cooleye/MetaCoin)
